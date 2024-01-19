@@ -1,5 +1,5 @@
 
-# SmartBasketball23
+# SmartBasketball
 
 AI basketball broadcasting system
 
