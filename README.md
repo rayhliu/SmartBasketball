@@ -10,8 +10,8 @@ AI basketball broadcasting system
 - Real-time basketball broadcasting system (Auto-Framing, FPS 100~)
 - Deploy on amateur basketball game
 
-<img src="assert/smart_basketball_demo.gif" alt="drawing" width="480"/>
-<img src="assert/_flowchart.png" alt="drawing" width="800"/>
+<img src="assets/smart_basketball_demo.gif" alt="drawing" width="480"/>
+<img src="assets/_flowchart.png" alt="drawing" width="800"/>
 
 ## Pre Requirements
 - CUDA = 10.2 or 11.x
